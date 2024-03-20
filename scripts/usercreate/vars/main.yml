@@ -1,0 +1,5 @@
+---
+# vars file for usercreate
+usernames:
+  - 'james'
+  - 'jim'

@@ -1,0 +1,8 @@
+---
+# tasks file for usercreate
+- name: Add the user with variable name with a bash shell
+  ansible.builtin.user:
+    name: "{{item}}"
+    shell: /bin/bash
+  with_items:
+     - "{{ usernames }}"

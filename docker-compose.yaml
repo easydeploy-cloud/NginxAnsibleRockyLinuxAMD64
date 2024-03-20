@@ -1,0 +1,9 @@
+services:
+  ansible:
+    build: .
+    container_name: ansible_rockylinuxamd64
+    volumes:
+      - ./scripts:/app
+      - ./nginx:/usr/share/nginx/html
+    ports:
+      - 80:80
