@@ -1,5 +1,5 @@
 ---
 # vars file for usercreate
 usernames:
-  - 'james'
-  - 'jim'
+  - 'easydeploy'
+  - 'admin'

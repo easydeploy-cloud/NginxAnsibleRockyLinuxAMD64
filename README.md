@@ -10,4 +10,4 @@ The folder script will be shared inside container at /app folder path.
 
 The folder scripts is shared with /app (This contains the ansible scripts)
 
-The folder nginx is shared with /usr/share/nginx/html (This is nginx document root, you can keep all your website apps here).# NginxAnsibleRockyLinuxAMD64
+The folder nginx is shared with /usr/share/nginx/html (This is nginx document root, you can keep all your website apps here).

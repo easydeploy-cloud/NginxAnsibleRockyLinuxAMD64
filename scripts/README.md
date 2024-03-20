@@ -1,5 +1,4 @@
-## Command to run ansible script
-
+## Sample user create ansible script
 ```/root/.local/bin/ansible-playbook useradd.yml```
 
 The host that it should run the user creation is in inventory/hosts file.
