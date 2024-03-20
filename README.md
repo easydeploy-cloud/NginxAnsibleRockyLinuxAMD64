@@ -1,5 +1,5 @@
 # Prerequisite 
-Install docker-compose
+Install docker-compose by following https://docs.docker.com/compose/install/
 ## To bring the container up
 ```docker-compose up -d```
 
